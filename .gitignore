@@ -1,0 +1,4 @@
+new.info
+*.log
+*.class
+test/
